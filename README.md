@@ -69,6 +69,6 @@ Pilih menu sesuai kebutuhan:
 💡 Catatan Tambahan
 - Jika data tidak berurutan, program akan otomatis men-generate nomor urut.
 - Kamu bebas memperluas project (misalnya menambah fitur pencarian, sorting, atau export ke CSV).
-Jika data tidak berurutan, program akan otomatis men-generate nomor urut.
+- Jika data tidak berurutan, program akan otomatis men-generate nomor urut.
 
 Kamu bebas memperluas project (misalnya menambah fitur pencarian, sorting, atau export ke CSV).
